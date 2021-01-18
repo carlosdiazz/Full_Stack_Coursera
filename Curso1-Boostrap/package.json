@@ -1,0 +1,16 @@
+{
+  "name": "curso1-boostrap",
+  "version": "1.0.0",
+  "description": "Prueba de pagina",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
