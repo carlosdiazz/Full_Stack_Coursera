@@ -110,11 +110,11 @@ def comprobar_linea():
     decimal_enbianrio=convertir_a_decimal(binario_enlinea)
     print(f"El binario es {binario_enlinea} y el numero es: {decimal_enbianrio}")
 
-mensaje_final("Hola ustedes fallaron",11)
+mensaje_final("Hola ustedes fallaron",2062)
 
 #for i in range(10):
 #    ok=(encriptar(binario(12)))
 #    print(ok)
 
 #mandar()
-#comprobar_linea()
+comprobar_linea()
