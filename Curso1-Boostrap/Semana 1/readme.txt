@@ -21,3 +21,14 @@ Objetivos de aprendizaje de la Semana 2:
     Prepare los medios para incluirlos en su sitio web
     
     Cree medios para proporcionar interacción del usuario con su sitio web mediante formularios y botones
+
+Objetivos de aprendizaje de la Semana 3
+
+
+    Reconozca cómo los componentes de JavaScript proporcionan un comportamiento dinámico a su sitio web.
+
+    Cree varios elementos de navegación en su sitio web usando Tabs y Accordion
+
+    Cree modales, información sobre herramientas y ventanas emergentes para revelar contenido en su sitio web
+
+    Cree un carrusel para mostrar contenido dinámico en su sitio web
